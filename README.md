@@ -16,7 +16,7 @@ Basically, I was bored and saw an image of this on the internet and decided to i
 
 ## Pending to do:
 
-- [ ] Using `GeometryReader`, read the size already provided on each element to set it to the internal frame.
+- [ ] Use `GeometryReader`, read the size already provided on each element to set it to the internal frame.
 - [ ] Allow providing the footer and header, allowing the user customise if they want it top, center or bottom aligned.
 - [ ] Make it a Swift Package if the code is good enough for anybody else to use it.
 - [ ] Update the documentation to explain how to use it.
