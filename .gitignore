@@ -38,3 +38,6 @@ DerivedData/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.gitignore.io/api/xcode
+
+# Excluding the local configuration
+.gitconfig
